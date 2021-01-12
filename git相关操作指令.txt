@@ -1,0 +1,7 @@
+公钥私钥
+ssh-keygen -t rsa
+公钥私钥地址：本地用户.ssh文件里
+github上设置公钥，头像上选择settings，选择SSH and GPG keys，点击new ssh key
+
+
+git clong url
