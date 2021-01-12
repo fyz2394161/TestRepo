@@ -4,4 +4,8 @@ ssh-keygen -t rsa
 github上设置公钥，头像上选择settings，选择SSH and GPG keys，点击new ssh key
 
 
+git remote add origin https://github.com/fyz2394161/TestRepo.git
+
+git push -u origin main
+
 git clong url
